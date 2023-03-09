@@ -1,0 +1,8 @@
+{
+  "account": "qjb57177.us-east-1",
+  "user": "PyAshishMhatre",
+  "password": "!Ashish123",
+  "warehouse": "COMPUTE_WH",
+  "database": "SNOWFLAKE_SAMPLE_DATA",
+  "schema": "TPCDS_SF10TCL"
+}
