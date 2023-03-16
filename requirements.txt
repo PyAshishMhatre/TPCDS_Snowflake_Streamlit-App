@@ -2,5 +2,5 @@ snowflake-snowpark-python
 ipykernel
 pyarrow==10.0.1
 pandas
-sqlalchemy
+snowflake.sqlalchemy
 plotly
