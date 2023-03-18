@@ -19,7 +19,7 @@ conn = snowflake.connector.connect(
 
 
 engine = create_engine(URL(
-    account = 'qjb57177.us-east-1',
+    account = 'wc33601.us-east4.gcp',
     user = 'PyAshishMhatre',
     password = '!Ashish123',
     database = 'SNOWFLAKE_SAMPLE_DATA',
