@@ -263,7 +263,7 @@ else:
         d_year = int(d_year)
 
 
-    d_moy = st.text_input("Enter a valid year", key="T2")
+    d_moy = st.text_input("Enter a valid Month", key="T2")
     if d_moy != '':
         d_moy = int(d_moy)
 
